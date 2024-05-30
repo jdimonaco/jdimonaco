@@ -19,29 +19,15 @@
 I'm a data analyst with a deep dive into visualisations and a curious mind for AI. My passion lies in transforming raw data into compelling visuals that unlock insights. But my curiosity doesn't stop there – I'm constantly exploring the potential of machine learning and AI to push data analysis even further.  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on different data visualisations.  
-  
-
-- 🌱 I’m currently learning machine learning and AI techniques.   
-  
-
-- ⚡ Fun fact: My favourite keyboard is Ctrl+Z   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
 </div>  
+  
 
+- 📊  I’m currently working on different data visualisations.    
 
-</td></tr></table>  
+- 🏢  I’m currently learning machine learning algorithms and exploring AI and deep learning techniques    
+
+- ⚡ Fun fact: My favourite keyboard is Ctrl+Z     
+  
 
 <br/>  
 
