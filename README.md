@@ -14,6 +14,8 @@ I'm a data analyst with a deep dive into visualisations and a curious mind for A
 - ⚡ Fun fact: My favourite keyboard is Ctrl+Z     
 
 
+
+##Find me around the web 🌐:
 <a href="https://github.com/jdimonaco" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -42,9 +44,7 @@ I'm a data analyst with a deep dive into visualisations and a curious mind for A
 </div>  
 
 
-
 <br/>  
-
   
 
 <br/>  
