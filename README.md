@@ -1,6 +1,19 @@
 ## Hey 👋, I'm Jessica   
   
 
+### Nice to meet you!  
+I'm a data analyst with a deep dive into visualisations and a curious mind for AI. My passion lies in transforming raw data into compelling visuals that unlock insights. But my curiosity doesn't stop there – I'm constantly exploring the potential of machine learning and AI to push data analysis even further.  
+  
+</div>  
+  
+
+- 📊  I’m currently working on different data visualisations.    
+
+- 🏢  I’m currently learning machine learning algorithms and exploring AI and deep learning techniques    
+
+- ⚡ Fun fact: My favourite keyboard is Ctrl+Z     
+
+
 <a href="https://github.com/jdimonaco" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -13,20 +26,6 @@
 <a href="https://linkedin.com/in/jessicad7" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-### Nice to meet you!  
-I'm a data analyst with a deep dive into visualisations and a curious mind for AI. My passion lies in transforming raw data into compelling visuals that unlock insights. But my curiosity doesn't stop there – I'm constantly exploring the potential of machine learning and AI to push data analysis even further.  
-  
-
-</div>  
-  
-
-- 📊  I’m currently working on different data visualisations.    
-
-- 🏢  I’m currently learning machine learning algorithms and exploring AI and deep learning techniques    
-
-- ⚡ Fun fact: My favourite keyboard is Ctrl+Z     
   
 
 <br/>  
