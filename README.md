@@ -18,7 +18,7 @@ I'm a data analyst with a deep dive into visualisations and a curious mind for A
 
 
 
-## Find me aroound the web 🌐: 
+## Find me around the web 🌐: 
 
 <a href="https://github.com/jdimonaco" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -35,7 +35,10 @@ I'm a data analyst with a deep dive into visualisations and a curious mind for A
   
 
 
+
 <br/>  
+
+
 
 
 
@@ -49,6 +52,7 @@ I'm a data analyst with a deep dive into visualisations and a curious mind for A
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 </div>  
+
 
 
 
