@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--
+[<!--
 **jdimonaco/jdimonaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+](https://github.com/jdimonaco/jdimonaco/blob/456c64fdfde2d2f5bdf36fd42e3e12d3cfa7538e/header.png)
 
 Here are some ideas to get you started:
 
