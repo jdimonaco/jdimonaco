@@ -1,4 +1,6 @@
 ## Hey 👋, I'm Jessica   
+
+<img src ="https://github.com/jdimonaco/jdimonaco/blob/be1bacd931337e840da16b341efae7a8ae1c3067/Black%20and%20White%20Starry%20Sky%20Facebook%20Cover.png" >
   
 
 ### Nice to meet you!  
